@@ -578,6 +578,4 @@ if __name__ == "__main__":#проверяет имя текущего модул
     root = tk.Tk() #главное окно программы
     app = CardCatalogApp(root) 
     root.mainloop()    
-git add .
-git commit -m "Add Windows EXE build configuration"
-git push
+
