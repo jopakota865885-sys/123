@@ -1,0 +1,40 @@
+```
+# Build artifacts
+build/
+dist/
+
+# Python compiled files
+*.pyc
+__pycache__/
+localpycs/
+
+# PyInstaller specific
+*.toc
+*.pkg
+*.pyz
+*.pyz.*
+warn-*.txt
+xref-*.html
+base_library.zip
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+```
